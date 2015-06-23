@@ -1,3 +1,2 @@
 # learngit
-kkk这个世界！
-中国！
+Creating a new branch is quick.
